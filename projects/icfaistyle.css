@@ -1,0 +1,58 @@
+.page{
+    
+    width: auto;
+    height: 1070px;
+    
+}
+
+.head{
+    width: auto;
+    height: 220px;
+    background-color: white;
+    text-align: center;
+    font-size: 110px;
+    padding-top: 110px;
+}
+
+.menu{
+    width: auto;
+    height: 50px;
+    background-color: black;
+    font-size: 20px;
+    padding-top: 30px;
+    
+}
+
+a{color: white;}
+
+
+.body{
+    width: auto;
+    height: 600px;
+    background-color: silver;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 150px;
+    
+}
+    
+.foot{
+    width: auto;
+    height: 70px;
+    background-color: cornsilk;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 30px;
+}
+
+.menu a {
+    text-decoration: none;
+    padding: 0.8em ;
+    padding-top: 20px;
+}
+
+.menu a:hover {
+    background-color: whitesmoke;
+    color: rgb(98, 8, 67);
+    
+}
